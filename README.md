@@ -122,7 +122,7 @@ npm run start:dev
 
 4.  Navigate to the frontend directory and install dependencies:
 
-bashCopy code
+bash Copy code
 
 ```bash
 cd ../frontend
