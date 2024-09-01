@@ -75,16 +75,16 @@ Follow the steps below to set up the project:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SekharSunkara6/Content-Management-System.git
+git clone https://github.com/SekharSunkara6/Zimyo-Technical-Assignment.git
 ```
 
-3. Install the required dependencies for frontend and backend:
+2. Install the required dependencies for frontend and backend:
 
 ```bash
 npm install
 ```
 
-4. Set up environment variables:
+3. Set up environment variables:
 
 Create a `.env` file in the `backend` directory with the following content:
 
@@ -104,7 +104,7 @@ NOTE: Before running the application, ensure you add your IP to your MongoDB clu
 7. Clone the repository to your local machine:
 
 ```bash
- git clone https://github.com/your-username/article-management-system.git`
+ git clone https://github.com/SekharSunkara6/Zimyo-Technical-Assignment.git
 ```
 
 2.  Navigate to the backend directory and install dependencies:
