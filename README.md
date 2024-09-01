@@ -98,10 +98,10 @@ Replace `your-mongodb-connection-string` with your MongoDB connection string, an
 
 NOTE: Before running the application, ensure you add your IP to your MongoDB cluster whitelist to allow access.**
 
-5. Start the development server:
-6. ## Installation and Setup
+4. Start the development server:
+  ## Installation and Setup
 
-7. Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```bash
  git clone https://github.com/SekharSunkara6/Zimyo-Technical-Assignment.git
